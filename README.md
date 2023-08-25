@@ -4,4 +4,4 @@ Useful Google x Discord Integrations for apps like Gmail, Forms Etc
 
 ## Scripts
 
-- [Email to Discord Notifier](gmail/Email-to-Discord-Notifier-Script/)
+- [New Email Notifier for Discord](gmail/Email-to-Discord-Notifier-Script/)
