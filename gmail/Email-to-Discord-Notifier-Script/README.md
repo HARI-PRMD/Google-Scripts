@@ -9,6 +9,17 @@ This script allows you to monitor your Gmail inbox for new emails and post their
 
 ## Setup
 
+### Inbox Setup (IMPORTANT)
+
+- Open Google Drive and create a new Google Apps Script project.
+- Copy and paste the provided script (`init.gs`) into the script editor.
+- Run the script
+- Delete the script After Execution Stops
+
+this will add a label called "read by bot" so that it doesn't interfere with your unread mails
+
+### Actual Script
+
 1. **Create a Discord Webhook:**
    - In your Discord server, navigate to the channel where you want to post the email notifications.
    - Click on the settings (cog) icon next to the channel name.
