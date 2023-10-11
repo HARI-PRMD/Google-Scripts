@@ -34,10 +34,6 @@ this will add a label called "read by bot" so that it doesn't interfere with you
    - In the Apps Script editor, go to the "Triggers" icon (clock) in the toolbar.
    - Click on "Add Trigger" and configure it to run the `checkEmailsAndPostToDiscord` function at the desired interval (e.g., every 5 minutes).
 
-4. **Gmail Label (Optional):**
-   - If you want to mark processed emails, create a Gmail label named "ToBeProcessed."
-   - Apply this label to emails you want to be processed by the script.
-
 ## Running the Script
 
 The script will automatically check your Gmail inbox for unread emails and post their subject and content snippets to the specified Discord channel.
