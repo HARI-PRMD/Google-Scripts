@@ -1,7 +1,12 @@
-# google-x-discord-scripts
+# Useful Google Scripts
 
-Useful Google x Discord Integrations for apps like Gmail, Forms Etc
+- Google x Discord Webhook Integration Scripts
+- All Purpose Google Scripts
 
 ## Scripts
 
-- [New Email Notifier for Discord](gmail/Email-to-Discord-Notifier-Script/)
+- [Receive Drive File Updates on Discord](Discord%20Integrations/Recieve%20Drive%20File%20Updates%20on%20Discord/)
+
+- [Send Emails to Discord](Discord%20Integrations/Send%20Emails%20To%20Discord/)
+
+- [Mark All Emails Read](Google%20Scripts/Mark%20All%20Emails%20Read/)
